@@ -97,7 +97,7 @@ Because Codon supports full multithreading, meaning NumPy code can be paralleliz
 
 ### Additional Resources:
 
-[Detailed descriptions of NumPy linear algebra module]([https://openai.com](https://numpy.org/doc/stable/reference/routines.linalg.html)) 
+Please see [NumPy linear algebra module documentation](https://numpy.org/doc/stable/reference/routines.linalg.html) for in-depth documentation.
 
 ## Reductions
 
@@ -153,6 +153,6 @@ print(bin_edges)
 
 ### Additional Resources:
 
-[Detailed descriptions of NumPy statistics module](https://numpy.org/doc/stable/reference/routines.statistics.html)
+Please see [NumPy statistics module documentation](https://numpy.org/doc/stable/reference/routines.statistics.html) for in-depth documentation.
 
 ## Frequently Asked Questions:
